@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
+name: Rishi Arora
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog on the Machine Learning Big Data Related blogs for beginners
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://rbackupX.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: risarora@gmail.com
 
 authors:
     johndoe:
